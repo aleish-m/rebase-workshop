@@ -12,6 +12,7 @@ CONTENTS OF THIS FILE
 
  INTRODUCTION
 ------------
+Adding to this just for test.
 This is just a base template for a README with `Lorem Ipsum`, used for the [Rebase Workflow Workshop](https://mod4.turing.edu/lessons/rebase-workflow-workshop.html) session.
 
 REQUIREMENTS
